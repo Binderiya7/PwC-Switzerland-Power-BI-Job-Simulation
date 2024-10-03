@@ -65,8 +65,3 @@ In this project, I analyzed the company's HR data to assess diversity and inclus
 
 Feel free to explore the projects and dashboards. If you have any questions or feedback, don't hesitate to reach out!
 
----
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
